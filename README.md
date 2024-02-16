@@ -49,8 +49,8 @@ Welcome to my page!
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href=""><img alt="Website" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/knigth95/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href=""><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:knight20030209@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href=""><img alt="Website" src="https://img.shields.io/badge/LinkedIn-knight%20zzm%20Singh-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/knigth95/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-knight%20zzm%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href=""><img alt="Instagram" src="https://img.shields.io/badge/Instagram-暂无账号-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:knight20030209@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-knight20030209@163.com-blue?style=flat-square&logo=gmail"></a>
 </p>
